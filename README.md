@@ -13,4 +13,5 @@ C Owen et al
 This project requires a computer and internet.
 
 ## BitBucket
-It's like GitHub, but not. 
+It's like GitHub, but not.
+They both run on Git - I'm not sure how the command line will interact with both of them

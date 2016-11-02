@@ -14,5 +14,3 @@ This project requires a computer and internet.
 
 ## BitBucket
 It's like GitHub, but not. 
-
-Huh.

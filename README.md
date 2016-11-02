@@ -3,7 +3,7 @@ First repository for Git training
 
 ## About
 This is a training repo for Git and GitHub.
-This needs more info
+It involves using GitHub online and the GitHub application
 
 ## Team
 C Owen et al
